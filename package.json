@@ -1,0 +1,31 @@
+{
+  "name": "load_test_nodejs",
+  "version": "1.0.0",
+  "description": "Test Server Load Using Node Js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlama7/loadTestNodeJS.git"
+  },
+  "keywords": [
+    "Load",
+    "Test",
+    "Server",
+    "Load",
+    "NodeJS"
+  ],
+  "author": "Ratna Lama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rlama7/loadTestNodeJS/issues"
+  },
+  "homepage": "https://github.com/rlama7/loadTestNodeJS#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "child_process": "^1.0.2",
+    "minimist": "^1.2.5"
+  }
+}
